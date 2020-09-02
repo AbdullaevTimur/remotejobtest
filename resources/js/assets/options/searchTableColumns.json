@@ -1,0 +1,38 @@
+[
+  {
+    "prop": "name",
+    "label": "Name",
+    "type": "string",
+    "filter": false
+  },
+  {
+    "prop": "bedrooms",
+    "label": "Bedrooms",
+    "type": "number",
+    "filter": true
+  },
+  {
+    "prop": "bathrooms",
+    "label": "Bathrooms",
+    "type": "number",
+    "filter": true
+  },
+  {
+    "prop": "storeys",
+    "label": "Storeys",
+    "type": "number",
+    "filter": true
+  },
+  {
+    "prop": "garages",
+    "label": "Garages",
+    "type": "number",
+    "filter": true
+  },
+  {
+    "prop": "price",
+    "label": "Price",
+    "type": "range",
+    "filter": true
+  }
+]
